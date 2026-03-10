@@ -1,0 +1,3 @@
+This is simplae first text file in this git repo
+this is just for DovOps training task
+add it
