@@ -2,6 +2,6 @@ This is simplae first text file in this git repo
 this is just for DovOps training tknjdejknknejknkneqkxlnleqask
 add a line
 one line
-one more line
+one mine
 one more line add
 
