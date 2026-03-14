@@ -4,4 +4,4 @@ ine
 line
 one mine
 one more line add
-to start the build automatically by committig
+to start the build automatically by comtig
